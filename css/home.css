@@ -1,0 +1,36 @@
+html, body{
+    background-color: #a6dcef;
+}
+
+header{
+    text-align: center;
+    margin-top: 14rem;
+}
+
+header h1{
+    color: #e7305b;
+    font-size: 4rem;
+}
+
+.button-container{
+    margin-top: 6rem;
+}
+
+.button-container *{
+    margin: 2rem;
+    text-decoration: none;
+}
+
+.button-container .button{
+    padding: 1rem 2rem;
+    border: 0.1rem solid #e36387;
+}
+
+.button-container .button.pill{
+    border-radius: 2rem;
+}
+
+.button{
+    color:  white;
+    background-color: #e36387;
+}

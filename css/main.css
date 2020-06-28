@@ -1,0 +1,19 @@
+html, body{
+    margin: 0;
+    padding: 0;
+
+    text-decoration: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+.left{
+    float: left;
+}
+
+.center{
+    float: center;
+}
+
+.right{
+    float: right;
+}
